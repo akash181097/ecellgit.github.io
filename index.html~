@@ -15,24 +15,11 @@
   <div>  	
 	    <ol>
 	    	<li>
-
-	    		<h4> jimish :
-	    		 <a href="jimish.html"> learn object oriented java</a>
+	    		<h4> Jimish :
+	    		 <a href="jimish.html"> Learn Object oriented Javascript</a>
 	    		</h4>
 	    	</li>
-	    	<li>
-	    		<h4> sejal :
-	    		 <a href="sejal.html"> learn networking</a>
-	    		 </h4>
-			
-	    	</li>
-		<li>
-	    		<h4> Vatsal :
-	    		 <a href="vfx_3d.html"> VFX and 3d design</a>
-	    		</h4>
-			
-	    	</li>
-
+<<<<<<< HEAD
 
 		<li>
 	    		<h4> Harshil :
@@ -40,15 +27,13 @@
 	    		</h4>
 	    	</li>
 
-
+=======
 	    	<li>
 	    		<h4> Shruti :
 	    		 <a href="Shruti.html"> Web Designing</a>
 	    		</h4>
 	    	</li>
-            <li>
-            <h4> nikita :
-            <a href="nikita.html"> craftivity</a>
+>>>>>>> c515f8a81c5d151691bee6ca6e298d5d6dea7e60
 	    </ol>
   </div>
   </body>
