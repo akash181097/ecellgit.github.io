@@ -17,24 +17,8 @@
 	    	<li>
 	    		<h4> Jimish :
 	    		 <a href="jimish.html"> Learn Object oriented Javascript</a>
-	    		 <a href="nikita.html"> Craftivity </a>
 	    		</h4>
 	    	</li>
-<<<<<<< HEAD
-
-		<li>
-	    		<h4> Harshil :
-	    		 <a href="vfx_3d.html"> vfx_3d</a>
-	    		</h4>
-	    	</li>
-
-=======
-	    	<li>
-	    		<h4> Shruti :
-	    		 <a href="Shruti.html"> Web Designing</a>
-	    		</h4>
-	    	</li>
->>>>>>> c515f8a81c5d151691bee6ca6e298d5d6dea7e60
 	    </ol>
   </div>
   </body>
