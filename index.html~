@@ -17,14 +17,9 @@
 	    	<li>
 	    		<h4> Jimish :
 	    		 <a href="jimish.html"> Learn Object oriented Javascript</a>
-<<<<<<< HEAD
-	    		 
-=======
-	    		 <a href="nikita.html"> Craftivity </a>
->>>>>>> 1b5e3a1edf0eafe505b60d46554ea4d808280ecb
 	    		</h4>
 	    	</li>
-
+<<<<<<< HEAD
 
 		<li>
 	    		<h4> Harshil :
@@ -32,19 +27,13 @@
 	    		</h4>
 	    	</li>
 
-
+=======
 	    	<li>
 	    		<h4> Shruti :
 	    		 <a href="Shruti.html"> Web Designing</a>
 	    		</h4>
 	    	</li>
-
-	    	<li>
-	    	<h2>Yash
-	    	<a href="yash.html.txt"> file uploaded </a>
-	    	</h2>
-	    	</li>
-
+>>>>>>> c515f8a81c5d151691bee6ca6e298d5d6dea7e60
 	    </ol>
   </div>
   </body>
