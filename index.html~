@@ -17,30 +17,9 @@
 	    	<li>
 	    		<h4> Jimish :
 	    		 <a href="jimish.html"> Learn Object oriented Javascript</a>
-	    		 <a href="nikita.html"> Craftivity </a>
-	    		</h4>
-			
-	    	</li>
-		<li>
-	    		<h4> Vatsal :
-	    		 <a href="vfx_3d.html"> VFX and 3d design</a>
-	    		</h4>
-			
-	    	</li>
-	    	<li>
-	    		<h4> shailee :
-	    		 <a href="shailee.html"> workshop report</a>
 	    		</h4>
 	    	</li>
 <<<<<<< HEAD
-
-	    	<li>
-	    		<h4> Maulik :
-	    		 <a href="maulik.html"> Web Developemnt </a>
-	    		</h4>
-	    	</li>
-=======
->>>>>>> 5f53126f461fb0c44f4abf874389141574919ecb
 
 		<li>
 	    		<h4> Harshil :
@@ -48,21 +27,13 @@
 	    		</h4>
 	    	</li>
 
-<<<<<<< HEAD
 =======
-
->>>>>>> 5f53126f461fb0c44f4abf874389141574919ecb
 	    	<li>
 	    		<h4> Shruti :
 	    		 <a href="Shruti.html"> Web Designing</a>
 	    		</h4>
 	    	</li>
-<<<<<<< HEAD
 >>>>>>> c515f8a81c5d151691bee6ca6e298d5d6dea7e60
->>>>>>> f5803d448ad4656a3636dd0006ee2983abf6a9f8
-=======
-
->>>>>>> 5f53126f461fb0c44f4abf874389141574919ecb
 	    </ol>
   </div>
   </body>
